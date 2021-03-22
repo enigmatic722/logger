@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Psr\\Log\\": "Psr/Log/",
-            "Php\\Exam\\": ""
+            "Php\\Exam\\": "Exam/"
         }
     },
     "extra": {
